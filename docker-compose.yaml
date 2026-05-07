@@ -2,7 +2,7 @@ services:
   web:
     image: max12312312312/lab1:latest
     ports:
-      - "80:8080"
+      - "80:1401"
     restart: always
     pull_policy: always
     environment:
