@@ -106,7 +106,7 @@ def _init_swagger(app: Flask) -> None:
     
     api = Api(
         app, 
-        title='Ci Cd view',
+        title='promax',
         description='Complete REST API for CloudLabs management system with authentication',
         version='1.0',
         doc='/api/docs/',
